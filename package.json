@@ -1,11 +1,11 @@
 {
   "name": "@antstanley/cosmos-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper library for CosmosDB",
   "main": "bin/index.js",
   "scripts": {
     "test": "tape",
-    "prepublishOnly":"npm version patch"
+    "prepublishOnly": "npm version patch"
   },
   "repository": {
     "type": "git",

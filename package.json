@@ -5,7 +5,7 @@
   "main": "bin/index.js",
   "scripts": {
     "test": "tape",
-    "prepublishOnly":"npm version patch",
+    "prepublishOnly":"npm version patch"
   },
   "repository": {
     "type": "git",

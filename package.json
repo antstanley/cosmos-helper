@@ -1,0 +1,28 @@
+{
+  "name": "cosmos-helper",
+  "version": "0.0.1",
+  "description": "Helper library for CosmosDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antstanley/cosmos-helper.git"
+  },
+  "keywords": [
+    "cosmosdb",
+    "azure",
+    "documentdb"
+  ],
+  "author": "A. Stanley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antstanley/cosmos-helper/issues"
+  },
+  "homepage": "https://github.com/antstanley/cosmos-helper#readme",
+  "dependencies": {
+    "async-each": "^1.0.1",
+    "documentdb": "^1.14.2"
+  }
+}

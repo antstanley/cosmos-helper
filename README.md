@@ -34,7 +34,7 @@ Insert single document into CosmosDB.
 *insertBulk*
 
 ```
-.insert(collection, payloadArray, callback)
+.insertBulk(collection, payloadArray, callback)
 ```
 
 Insert multiple documents into CosmosDB.
